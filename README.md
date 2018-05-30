@@ -2,7 +2,7 @@
 
 ## Created
 
-05/29/2018
+05/30/2018
 
 ## About
 
@@ -13,11 +13,11 @@ Create a flashcard website for studying js and jQuery concepts.
 HTML, CSS, Javascript, jQuery
 
 ## Installation
-Clone from https://github.com/Xamdes/js-jquery-flashcards.git
-or https://github.com/WilliamKinzig/calculator.git
+Clone from: https://github.com/Xamdes/js-jquery-flashcards.git
+ https://github.com/hisatokawaminami/js-jquery-flashcards.git
 
 ## Credits
-William Kinzig
+Hisato Kawaminami
 Steven Colburn
 
 ## License
