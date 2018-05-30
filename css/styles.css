@@ -1,0 +1,24 @@
+body {
+  background-color: lightcyan;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+/*#show-javascript {
+  display: none;
+}*/
+
+.show-initial {
+  display: none;
+}
+
+.flashcard {
+  
+}
